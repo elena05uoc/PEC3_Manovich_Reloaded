@@ -1,6 +1,6 @@
 # PEC3_Manovich_Reloaded
 
-TikTok y Awwwards
+Hibridación en la cultura del software: TikTok y Awwwards
 
 **Autor/a:** Elena Obeso Robles  
 **Asignatura:** Cultura digital  
